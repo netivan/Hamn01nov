@@ -1,0 +1,13 @@
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\bin\Debug\netcoreapp3.1\Hamn01nov.exe
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\bin\Debug\netcoreapp3.1\Hamn01nov.deps.json
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\bin\Debug\netcoreapp3.1\Hamn01nov.runtimeconfig.json
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\bin\Debug\netcoreapp3.1\Hamn01nov.runtimeconfig.dev.json
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\bin\Debug\netcoreapp3.1\Hamn01nov.dll
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\bin\Debug\netcoreapp3.1\Hamn01nov.pdb
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\obj\Debug\netcoreapp3.1\Hamn01nov.csprojAssemblyReference.cache
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\obj\Debug\netcoreapp3.1\Hamn01nov.AssemblyInfoInputs.cache
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\obj\Debug\netcoreapp3.1\Hamn01nov.AssemblyInfo.cs
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\obj\Debug\netcoreapp3.1\Hamn01nov.csproj.CoreCompileInputs.cache
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\obj\Debug\netcoreapp3.1\Hamn01nov.dll
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\obj\Debug\netcoreapp3.1\Hamn01nov.pdb
+C:\Users\maram\Desktop\iths\Föreläsningar  -  Video\Inlämningsuppgift - 5nov\Hamn01nov\Hamn01nov\Hamn01nov\obj\Debug\netcoreapp3.1\Hamn01nov.genruntimeconfig.cache
